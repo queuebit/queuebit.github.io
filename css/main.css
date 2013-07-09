@@ -108,7 +108,6 @@ ul.posts span {
 }
 
 .site .footer .contact {
-  float: left;
   margin-right: 3em;
 }
 
@@ -124,6 +123,18 @@ ul.posts span {
 
 .site .footer .rss img {
   border: 0;
+}
+
+.site .footer .practiceinfo {
+  text-align: right;
+  font-size: smaller;
+}
+
+.site .footer .practiceinfo a {
+  font: 1.2em serif;
+  color: #a0a0a0;
+  padding: 0 2px;
+  text-decoration: none;
 }
 
 /*****************************************************************************/
