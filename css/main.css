@@ -100,7 +100,6 @@ ul.posts span {
 }
 
 .site .footer {
-  font-size: 80%;
   color: #666;
   border-top: 4px solid #eee;
   margin-top: 2em;
@@ -108,21 +107,15 @@ ul.posts span {
 }
 
 .site .footer .contact {
+  float: left;
+  font-size: 28px;
+  margin-top: 0.5em;
   margin-right: 3em;
 }
 
 .site .footer .contact a {
   color: #8085C1;
-}
-
-.site .footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
-  float: right;
-}
-
-.site .footer .rss img {
-  border: 0;
+  text-decoration: none;
 }
 
 .site .footer .practiceinfo {
@@ -131,7 +124,7 @@ ul.posts span {
 }
 
 .site .footer .practiceinfo a {
-  font: 1.2em serif;
+  font: 1.0em serif;
   color: #a0a0a0;
   padding: 0 2px;
   text-decoration: none;
