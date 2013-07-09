@@ -8,11 +8,13 @@ tags:
 ---
 
 * [Build Podcast 39 - Vagrant](http://build-podcast.com/vagrant/)
+
 	* `vagrant package` - Package up vagrantfile, box, etc to share with other devs
-	* **<@tk>**{: .tk} - Resources to checkout
-		* [Pregenerate typical Vagrant builds](http://rove.io/)
-		* [Vagrantbox.es](http://www.vagrantbox.es/)
-		* [Slideshare intro to Vagrant](http://www.slideshare.net/salizzar/introduction-to-vagrant)
+	> <i class="icon-check-empty"><span class="unchecked"> - Resources to checkout</span></i>
+
+	  * [Pregenerate typical Vagrant builds](http://rove.io/)
+	  * [Vagrantbox.es](http://www.vagrantbox.es/)
+	  * [Slideshare intro to Vagrant](http://www.slideshare.net/salizzar/introduction-to-vagrant)
 
 * [Automate Your Development Environment by David Kerber](http://www.confreaks.com/videos/2368-rmw2013-ready-to-code-automate-your-development-environment)
 	* Options for configuring Vagrant boxes: shell, puppet (_used in this video_), chef

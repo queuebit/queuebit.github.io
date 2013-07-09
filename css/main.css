@@ -157,6 +157,10 @@ ul.posts span {
   border: none;
 }
 
+#post span.unchecked {
+  font-weight: bold;
+}
+
 /* terminal */
 #post pre.terminal {
   border: 1px solid #000;

@@ -14,13 +14,13 @@ tags:
 
 * [Build Podcast 15 - Github](http://build-podcast.com/github/)
 
-	* **<@tk>**{: .tk} - Pick a ruby project to look through on a regular basis
-	* The `fixed #1` syntax for the commit message to close issues was cool
-	* Pull request process
-		1. Clone repo
-		2. Create branch with new feature
-		3. Push branch with new feature back to Github
-		4. Create pull request
+  > <i class="icon-check-empty"><span class="unchecked"> - Pick a ruby project to look through on a regular basis</span></i>
+  * The `fixed #1` syntax for the commit message to close issues was cool
+  * Pull request process
+    1. Clone repo
+    2. Create branch with new feature
+    3. Push branch with new feature back to Github
+    4. Create pull request
 
 * [Google Chrome Developer Tools: 12 Tricks to Develop Quicker](http://www.youtube.com/watch?v=nOEw9iiopwI)
 
@@ -31,7 +31,7 @@ tags:
 
 * [Build Podcast 41 - Vim](http://build-podcast.com/vim/)
 
-	* **<@tk>**{: .tk} - Search for other .vimrc files on Github 
+	> <i class="icon-check-empty"><span class="unchecked"> - Search for other .vimrc files on Github</span></i> 
 	* `:bn` - switch to next file in buffer
 	* `:ls` - list files currently in buffer
 	* `^` - Go to the first character on the line
