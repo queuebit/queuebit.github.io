@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Getting Started with Deliberate Practice
-tags: deliberate_practice
+categories: 
+- blog
 ---
 
 ### Background

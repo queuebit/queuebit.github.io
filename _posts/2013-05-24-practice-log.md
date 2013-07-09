@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Practice Log for 2013-05-24
-tags: practice_log, tk
+categories: 
+- practice
+tags:
+- tk
 ---
 
 * [Build Podcast 04 - git](http://build-podcast.com/git/)

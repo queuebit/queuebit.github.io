@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Deliberate Practice Plan
-tags: deliberate_practice
+category: practice
 ---
 
 The biggest benefit I have in developing my plan for deliberate practice is that the Ruby and Rails communities have a large bent towards learning. Below I am going to document my plan for skills to develop, tools I will use to develop those skills, and my specific plan for practice.

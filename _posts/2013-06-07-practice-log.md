@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Practice Log for 2013-06-07
-tags: practice_log
+categories: 
+- practice
 ---
 
 * Create vagrant box for side project using <http://rove.io/>

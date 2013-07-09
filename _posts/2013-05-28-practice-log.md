@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Practice Log for 2013-05-28
-tags: practice_log, tk
+categories:
+- practice
+tags: 
+- tk
 ---
 
 * [Build Podcast 39 - Vagrant](http://build-podcast.com/vagrant/)

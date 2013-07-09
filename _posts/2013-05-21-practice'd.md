@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Practice'd
-tags: practice_log
+categories:
+- practice
 ---
 
 ### Code School

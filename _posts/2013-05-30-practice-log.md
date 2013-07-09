@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Practice Log for 2013-05-30
-tags: practice_log
+categories: 
+- practice
 ---
 
 * [Intro to 'Write Code Faster: Expert-level Vim'](http://www.youtube.com/watch?v=ke7SfUFvvxo)

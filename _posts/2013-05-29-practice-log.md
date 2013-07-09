@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Practice Log for 2013-05-29
-tags: practice_log
+categories: 
+- practice
 ---
 
 * [Real Software Engineering by Glenn Vanderburg](http://www.confreaks.com/videos/282-lsrc2010-real-software-engineering)

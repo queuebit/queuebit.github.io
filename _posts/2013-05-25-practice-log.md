@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Practice Log for 2013-05-25
-tags: practice_log
+categories:
+- practice
 ---
 
 * Worked on side project for 3.5 hours

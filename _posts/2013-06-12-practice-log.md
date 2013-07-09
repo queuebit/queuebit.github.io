@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Practice Log for 2013-06-12
-tags: practice_log
+categories: 
+- practice
 ---
 
 * _[The Pragmatic Programmer](http://pragprog.com/the-pragmatic-programmer/extracts/tips)_ by Andrew Hunt and David Thomas

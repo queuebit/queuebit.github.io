@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Practice Log for 2013-05-23
-tags: practice_log
+categories:
+- practice
 ---
 
 * [Build Podcast 01 - Web Dev Tools](http://build-podcast.com/web-dev-tools/)

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Practice Log for 2013-06-03
-tags: practice_log
+categories: 
+- practice
 ---
 
 * [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/) - Exercises 44-48
