@@ -14,8 +14,9 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
+  font-family: source-sans-pro, sans-serif;
+  font-size: 100%;
+  line-height: 1.125em;
   text-align: center;
 }
 
@@ -41,16 +42,16 @@ table {
 /*****************************************************************************/
 ul.posts {
   list-style-type: none;
-  margin-bottom: 2em;
+  margin-bottom: 1.6em;
 }
 
 ul.posts li {
-  line-height: 1.75em;
+  line-height: 1.5em;
 }
 
 ul.posts span {
   color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
+  font-family: source-code-pro, sans-serif;
   font-size: 80%;
 }
 
@@ -61,7 +62,7 @@ ul.posts span {
 /*****************************************************************************/
 
 .site {
-  font-size: 115%;
+  font-size: 1.125em;
   text-align: justify;
   width: 42em;
   margin: 3em auto 2em;
@@ -124,7 +125,7 @@ ul.posts span {
 }
 
 .site .footer .practiceinfo a {
-  font: 1.0em serif;
+  font: 0.8em serif;
   color: #a0a0a0;
   padding: 0 2px;
   text-decoration: none;
@@ -136,7 +137,14 @@ ul.posts span {
 /*
 /*****************************************************************************/
 
-/* standard */
+.posts {
+  font-size: 0.875em;
+}
+
+#post {
+  font-size: 0.875em;
+}
+
 #post pre {
   border: 1px solid #ddd;
   background-color: #eef;
@@ -161,7 +169,6 @@ ul.posts span {
   font-weight: bold;
 }
 
-/* terminal */
 #post pre.terminal {
   border: 1px solid #000;
   background-color: #333;
