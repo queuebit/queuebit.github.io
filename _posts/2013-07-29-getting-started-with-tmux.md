@@ -13,7 +13,7 @@ Tonight I have finished working my way through [Love, hate, & tmux][love].
 
 Things I need to remember for next time.
 * `tmux attach -t baseball` - Attaches to the session that I created with panes for spec, app, and terminal
-* `C-a C-z` - detaches from session until next time
+* `C-a d` - detaches from session until next time
 
 Next up:
 * [A tmux Crash Course][crash course]
