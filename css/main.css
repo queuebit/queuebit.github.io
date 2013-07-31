@@ -119,6 +119,24 @@ ul.posts span {
   text-decoration: none;
 }
 
+/* ADN contact */
+span.icon-alpha { 
+  line-height: 20px;  
+  text-align: center;  
+  font-weight: bold;  
+  position: relative;  
+  right: 25px;
+}
+
+.icon-overlay {
+  font-family: source-code-pro, sans-serif;
+  font-size: 24px !important;
+  position: relative;
+  bottom: 4px;
+  right: 25px;
+  color: white;
+}
+
 .site .footer .practiceinfo {
   text-align: right;
   font-size: smaller;
