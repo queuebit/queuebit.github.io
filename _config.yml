@@ -1,2 +1,7 @@
+## Jekyll config
 name: "queuebit's blog"
 pygments: true
+
+## Prose.io config
+siteurl: "http://queuebit.net"
+media: "media"
