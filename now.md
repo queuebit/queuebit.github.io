@@ -13,4 +13,4 @@ I'm in Indiana, with my wife and two daughters. I am working on the following (_
 * Migrating hw infrastructure to Amazon EC2
 * Learning about data science and machine learning as it relates to sports analytics
 
-Last Updated: Nov 2, 2015
+Last Updated: Nov 2, 2015 (_Page inspired by [Derek Sivers](https://sivers.org/nowff)_)
