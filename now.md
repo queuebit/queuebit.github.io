@@ -9,6 +9,7 @@ I'm in Indiana, with my wife and two daughters. I am working on the following (_
 
 * Being a good husband and father
 * Adding MongoDB data persistence to Ruby app
+* Preparing data for sports analytics presentation
 * Looking for someone to pair with to architect and manage EC2 infrastructure
 
 <!-- * Adding and improving quality control steps to operating process flow
