@@ -64,7 +64,7 @@ ul.posts span {
 .site {
   font-size: 1.125em;
   text-align: justify;
-  width: 42em;
+  width: 38em;
   margin: 3em auto 2em;
   line-height: 1.5em;
 }
@@ -195,4 +195,14 @@ span.icon-alpha {
 
 #post pre.terminal code {
   background-color: #333;
+}
+
+/*****************************************************************************/
+/*
+/* Media queries
+/*
+/*****************************************************************************/
+
+@media (max-width: 750px) {
+  .site { width: calc(100vw - 30px); }
 }
