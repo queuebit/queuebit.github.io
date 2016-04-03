@@ -35,6 +35,12 @@ table {
   font: 100%;
 }
 
+blockquote {
+  margin: 0 1.5em 0 1.5em;
+  padding: 0 0.75em 0 1em;
+  background-color: #EFC6F7;
+}
+
 /*****************************************************************************/
 /*
 /* Home
