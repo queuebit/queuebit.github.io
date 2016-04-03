@@ -41,6 +41,19 @@ blockquote {
   background-color: #EFC6F7;
 }
 
+.video {
+  text-align: center;
+  padding-top: 1em;
+}
+
+hr {
+  color: #BF1BE0;
+  background-color: #BF1BE0;
+  height: 1px;
+  border: none;
+  margin: 1em 0;
+}
+
 /*****************************************************************************/
 /*
 /* Home

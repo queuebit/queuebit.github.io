@@ -5,7 +5,17 @@ categories:
 - blog
 ---
 
-A mashup of [I’m a boring programmer (and proud of it)][boring] and [_"Here's to the Crazy Ones"_][crazy]:
+A mashup of [I’m a boring programmer (and proud of it)][boring]:
+
+> I have a confession to make — I’m not a rock star programmer. Nor am I a hacker. I don’t know ninjutsu. Nobody has ever called me a wizard.
+
+...and [_"Here's to the Crazy Ones"_][crazy]:
+
+<div class="video">
+  <iframe width="500" height="315" src="https://www.youtube.com/embed/tjgtLSHhTPg" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<hr />
 
 > <em>Here's to the boring ones: <br />
 > The librarians, <br />
