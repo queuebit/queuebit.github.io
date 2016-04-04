@@ -22,7 +22,7 @@ Some ideas:
 * Number of podcast episodes listened to / deleted (_Weakness_: I often do most of my listening while driving and don't want to become unsafe documenting while I am driving)
 * Number of podcast subscriptions / episdoes per podcast / time since subscribed (_Weakness_: This is the most interesting, but there isn't a way to get the historical data I want)
 
-Then I had the idea of looking at the podcast artwork of some of my favorite podcasts and networks. I first looked into using something like `PIL` to create [histograms] for the artwork, but it wasn't easy to read and understand. Then I remembered some frequency-type graphs of movie poster artwork and found [k-means color clustering][cc]. That was what I wanted to do, but wanted to reuse someone else's library rather than writing it up myself. After some extensive "research" (Googling), I found <http://mkweb.bcgsc.ca/color-summarizer/?examplesi> by Martin Krzywinski.
+Then I had the idea of looking at the podcast artwork of some of my favorite podcasts and networks. I first looked into using something like `PIL` to create [histograms] for the artwork, but it wasn't easy to read and understand. Then I remembered some frequency-type graphs of movie poster artwork and found [k-means color clustering][cc]. That was what I wanted to do, but wanted to reuse someone else's library rather than writing it up myself. After some extensive "research" (Googling), I found <http://mkweb.bcgsc.ca/color-summarizer/?examples> by Martin Krzywinski.
 
 [histograms]: http://www.pyimagesearch.com/2014/01/22/clever-girl-a-guide-to-utilizing-color-histograms-for-computer-vision-and-image-search-engines/
 [cc]: http://www.pyimagesearch.com/2014/05/26/opencv-python-k-means-color-clustering/
