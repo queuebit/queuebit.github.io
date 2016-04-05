@@ -5,7 +5,7 @@ categories:
 - blog
 ---
 
-A few weeks ago [Jody Avrigan][ja] had the duo behind [Dear Data][dd] on an episode of [What's The Point][wtp]. During the episode he [challenged listeners][challenge] to create a data visualization related to each's podcast listening habits on a postcard and mail it in. _(Podcasts really love [voting] and [postcards])_
+A few weeks ago [Jody Avirgan][ja] had the duo behind [Dear Data][dd] on an episode of [What's The Point][wtp]. During the episode he [challenged listeners][challenge] to create a data visualization related to each's podcast listening habits on a postcard and mail it in. _(Podcasts really love [voting] and [postcards])_
 
 [ja]: https://twitter.com/jodyavirgan
 [dd]: http://www.dear-data.com/
