@@ -24,3 +24,11 @@ That opportunity cost was further compounded as the [Mac mini][mm] I have hosted
 On the bright side, driving gives me an opportunity to think through possibilities and work through some other programming problems, but the "work work" is left for _tomorrow_.
 
 Now, it is time for 😴.
+
+---
+
+_Updated (05 Apr 2016)_
+
+I upgraded the machine from `10.10.1` to `10.10.5` using [`softwareupdate`][softwareupgrade] and it made it through a week without crashing.
+
+[softwareupgrade]: https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man8/softwareupdate.8.html
