@@ -1,6 +1,6 @@
 ## Jekyll config
 name: "queuebit's blog"
-pygments: true
+highlighter: rouge
 
 ## Prose.io config
 siteurl: "http://queuebit.net"
