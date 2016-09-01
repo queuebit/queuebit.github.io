@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Elements of Style
+date: 2016-09-01 00:00
 categories:
 - book-a-day
 ---

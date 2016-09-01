@@ -5,3 +5,9 @@ pygments: true
 ## Prose.io config
 siteurl: "http://queuebit.net"
 media: "media"
+
+## Collections config
+collections:
+  books:
+    output: true
+    permalink: /book/:title.html
