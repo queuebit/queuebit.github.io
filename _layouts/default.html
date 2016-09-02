@@ -7,10 +7,11 @@
         <meta name="viewport" content="width=device-width">
 
         <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+        <!-- <link rel="stylesheet" href="/css/syntax.css"> -->
 
         <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+        <!-- <link rel="stylesheet" href="/css/main.css"> -->
+        <link rel="stylesheet" href="/css/style.css">
 
 	<!-- webfonts: Source Sans Pro and Source Code Pro -->
 	<script src="//use.edgefonts.net/source-sans-pro;source-code-pro.js"></script>
@@ -19,15 +20,13 @@
 
     </head>
     <body>
+			<header id="header">
 
-        <div class="container">
-          <div class="site">
-            <div class="header">
-              <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+              <h1 class="title">{{ site.name }}</h1>
               <a class="extra" href="/">home</a>
               <a class="extra" href="/book.html">book</a>
               <a class="extra" href="/now">now</a>
-            </div>
+			</header>
      
                 {{ content }}
 
@@ -47,7 +46,6 @@
 		</a>
               </div>
 							<p class="practiceinfo">
-							<a href="/book.html">📖</a>
 							<a href="/practice.html">π</a>
 							</p>
             </div>
