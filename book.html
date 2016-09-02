@@ -5,9 +5,9 @@ title: queueubit's book-a-day
 
 <div id="home">
   <h1>Books</h1>
-  <ul class="posts"
+	<ul class="posts">
     {% for book in site.books %}
-      <li><span>{{ book.date | date_to_string }}</span> &raquo; <a href="{{ book.url }}">{{ book.title }}</a></li>
+      <li><span>{{ book.date | date_to_string }}</span><a href="{{ book.url }}">{{ book.title }}</a></li>
     {% endfor %}
   </ul>
 </div>

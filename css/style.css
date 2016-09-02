@@ -55,6 +55,10 @@ strong {
   color: #333;
 }
 
+.posts li span {
+  float: right;
+}
+
 blockquote {
   font-style: italic;
   margin: 0 1.5em;
