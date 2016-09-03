@@ -44,6 +44,14 @@ body {
   color: #555;
 }
 
+hr {
+  color: #bf1be0;
+  background-color: #bf1be0;
+  height: 1px;
+  border: none;
+  margin: 1em 3em;
+}
+
 h2 {
   margin-top: 1em;
   padding-top: 1em;

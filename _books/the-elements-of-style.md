@@ -29,6 +29,8 @@ The most important tool in the workplace and at home is communication. Strunk an
 
 **Does the book spark joy?** _Yes_
 
+---
+
 #### my notes
 
 * 16\. Use definite, specific, concrete language.
