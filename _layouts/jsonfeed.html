@@ -1,0 +1,23 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+    "title": "queuebit's blog",
+    "description": "A blog, for queuebit.",
+    "home_page_url": "https://queuebit.net",
+    "feed_url": "https://queuebit.net/feed.json",
+    "user_comment": "This feed allows you to read the posts from this site in any feed reader that supports the JSON Feed format. To add this feed to your reader, copy the following URL — https://jsonfeed.org/feed.json — and add it your reader.",
+    "favicon": "https://queuebit.net/favicon.ico",
+    "author": {
+      "name": "queuebit"
+    },
+    "items": [
+		{% for post in site.categories.blog %}
+			{
+			"id": "{{ post.id }}",
+			"url": "http://queuebit.net{{ post.url }}",
+			"title": {{ post.title | smartify | jsonify }},
+			"content_html": {{ post.content | jsonify }},
+			"date_published": "{{ post.date }}"
+			},
+		{% endfor %}
+	]
+}
