@@ -15,5 +15,6 @@ I am working on the following (_in order of time spent_):
 * Learning about marketing and selling from [Lex Friedman](https://lexfriedman.substack.com/).
 * [Re-learning](https://queuebit.net/blog/2013/05/22/getting-started-with-deliberate-practice.html) about how [Follow Your Passion is Terrible Advice](https://www.youtube.com/watch?v=dE-wvWdM6jY&list=WL&index=1&t=36s).
 * [Reminiscing](https://en.wiktionary.org/wiki/reminisce) on [Ira Glass's tips on Storytelling](https://www.youtube.com/watch?v=f6ezU57J8YI&list=PLuIu7YRdU32NIr2DysU3kxqnvs_flQyvs&ab_channel=AliceMaravilhaNeo).
+* Refining my ["clarity of purpose"](https://youtu.be/KehujfbRBts?t=234), to be able to do great things, help others do great things, and change the world.
 
 Last Updated: December 06, 2022 (_Page inspired by [Derek Sivers](https://sivers.org/nowff)_)
